@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\symbol\symbol\bin\Debug\netcoreapp3.1\symbol.exe
+C:\Users\Катя\source\repos\symbol\symbol\bin\Debug\netcoreapp3.1\symbol.deps.json
+C:\Users\Катя\source\repos\symbol\symbol\bin\Debug\netcoreapp3.1\symbol.runtimeconfig.json
+C:\Users\Катя\source\repos\symbol\symbol\bin\Debug\netcoreapp3.1\symbol.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\symbol\symbol\bin\Debug\netcoreapp3.1\symbol.dll
+C:\Users\Катя\source\repos\symbol\symbol\bin\Debug\netcoreapp3.1\symbol.pdb
+C:\Users\Катя\source\repos\symbol\symbol\obj\Debug\netcoreapp3.1\symbol.csprojAssemblyReference.cache
+C:\Users\Катя\source\repos\symbol\symbol\obj\Debug\netcoreapp3.1\symbol.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\symbol\symbol\obj\Debug\netcoreapp3.1\symbol.AssemblyInfo.cs
+C:\Users\Катя\source\repos\symbol\symbol\obj\Debug\netcoreapp3.1\symbol.dll
+C:\Users\Катя\source\repos\symbol\symbol\obj\Debug\netcoreapp3.1\symbol.pdb
