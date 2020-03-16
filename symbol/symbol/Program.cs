@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace symbol
+namespace counting nonrepeating characters
 {
     class Program
     {
