@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace converter1
+namespace converter
 {
     class Program
     {
