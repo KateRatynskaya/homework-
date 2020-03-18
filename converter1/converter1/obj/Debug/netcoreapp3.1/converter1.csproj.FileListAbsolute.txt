@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\converter1\converter1\obj\Debug\netcoreapp3.1\converter1.csprojAssemblyReference.cache
+C:\Users\Катя\source\repos\converter1\converter1\obj\Debug\netcoreapp3.1\converter1.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\converter1\converter1\obj\Debug\netcoreapp3.1\converter1.AssemblyInfo.cs
+C:\Users\Катя\source\repos\converter1\converter1\bin\Debug\netcoreapp3.1\converter1.exe
+C:\Users\Катя\source\repos\converter1\converter1\bin\Debug\netcoreapp3.1\converter1.deps.json
+C:\Users\Катя\source\repos\converter1\converter1\bin\Debug\netcoreapp3.1\converter1.runtimeconfig.json
+C:\Users\Катя\source\repos\converter1\converter1\bin\Debug\netcoreapp3.1\converter1.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\converter1\converter1\bin\Debug\netcoreapp3.1\converter1.dll
+C:\Users\Катя\source\repos\converter1\converter1\bin\Debug\netcoreapp3.1\converter1.pdb
+C:\Users\Катя\source\repos\converter1\converter1\obj\Debug\netcoreapp3.1\converter1.dll
+C:\Users\Катя\source\repos\converter1\converter1\obj\Debug\netcoreapp3.1\converter1.pdb
